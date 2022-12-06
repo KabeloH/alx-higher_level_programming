@@ -1,2 +1,2 @@
-#!/usr/bin/python3:wq
+#!/usr/bin/python3
 import this
